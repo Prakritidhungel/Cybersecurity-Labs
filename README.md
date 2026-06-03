@@ -10,7 +10,7 @@
 
 ## 📌 About This Repository
 
-This repository showcases hands-on cybersecurity lab work completed during my M.S. in Cybersecurity at the **University of North Texas** (GPA: 3.9). The labs span network security, web application security, digital forensics, vulnerability assessment, and AI security — covering both offensive techniques and defensive countermeasures in controlled, ethical environments.
+This repository showcases hands-on cybersecurity lab work completed during my M.S. in Cybersecurity at the **University of North Texas**. The labs span network security, web application security, digital forensics, vulnerability assessment, and AI security — covering both offensive techniques and defensive countermeasures in controlled, ethical environments.
 
 > All labs were conducted in isolated virtual machine environments using industry-standard tools and frameworks (SEED Labs, Kali Linux, Nessus, Wireshark, Azure, and more).
 
